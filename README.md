@@ -1,2 +1,4 @@
 # Limitless Smartglasses
-we're working on it...
+## A Watch, Messages, Reddit, A Calculator and more directly in front of your eye
+
+
